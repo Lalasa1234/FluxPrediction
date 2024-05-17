@@ -6,7 +6,7 @@ Flux means flow, critical heat flux is that limit beyond which heat can no longe
 **What does the code contain**
 1. Data Preprocessing and EDA
 2. Torch Dataset and DataLoader preparation
-3. Torch custom model bulding and evaluation
+3. Torch Custom Model building and evaluation
 4. Optuna hyperparameter tuning on model architecture and optimizer's learning rate
 5. Optuna visualizations
 
