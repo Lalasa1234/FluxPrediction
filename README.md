@@ -10,4 +10,7 @@ Flux means flow, critical heat flux is that limit beyond which heat can no longe
 4. Optuna hyperparameter tuning on model architecture and optimizer's learning rate
 5. Optuna visualizations
 
+**Streamlit Deployment Link**
+
+
 
