@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from Model_architecture import BestModel
 
-model_state = torch.load(r'C:\Users\Dell\Desktop\ML course\CriticalHeatFluxPrediction_Project5\Model\TorchModel.pt')
+model_state = torch.load('Model\TorchModel.pt')
 model = BestModel(8)
 model.load_state_dict(model_state)
 
