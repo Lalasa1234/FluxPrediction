@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from Model_architecture import BestModel
 
-model_state = torch.load('Model\TorchModel.pt')
+model_state = torch.load('Model/TorchModel.pt')
 model = BestModel(8)
 model.load_state_dict(model_state)
 
