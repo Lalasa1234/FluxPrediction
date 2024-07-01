@@ -28,6 +28,8 @@ ___
 
 <img width="574" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/bd682ab7-3764-4572-a668-7d571d67dc26">
 
+___
+
 <img width="671" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/48e39107-7854-4c90-b36b-0444d66ce0d1">
 
 
