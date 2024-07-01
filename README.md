@@ -18,7 +18,8 @@ Flux means flow, critical heat flux is that limit beyond which heat can no longe
 
 https://fluxprediction-6elvtzngufrqfggzt77qst.streamlit.app/
 
-<img width="931" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/f277e328-34ce-4a4c-8672-52607940f013">
+<img width="277" alt="CHF1" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/964ec339-c747-4fd0-aaf5-17323747f2ef">
+
 
 
 
