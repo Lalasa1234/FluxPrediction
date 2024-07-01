@@ -14,6 +14,8 @@ Flux means flow, critical heat flux is that limit beyond which heat can no longe
 5. Optuna visualizations
 6. Torching saving and loading of model state (incl. weights and biases)
 
+___
+
 **Streamlit Deployment Link**
 
 https://fluxprediction-6elvtzngufrqfggzt77qst.streamlit.app/
