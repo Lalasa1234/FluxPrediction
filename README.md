@@ -24,7 +24,7 @@ Streamlit Deployment Link: https://fluxprediction-6elvtzngufrqfggzt77qst.streaml
 
 ___
 
-**Explainable AI 📈📉📊**
+### Explainable AI 📈📉📊
 
 <img width="574" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/bd682ab7-3764-4572-a668-7d571d67dc26">
 
