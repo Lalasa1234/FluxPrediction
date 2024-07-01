@@ -15,7 +15,11 @@ Flux means flow, critical heat flux is that limit beyond which heat can no longe
 6. Torching saving and loading of model state (incl. weights and biases)
 
 **Streamlit Deployment Link**
+
 https://fluxprediction-6elvtzngufrqfggzt77qst.streamlit.app/
+
+<img width="277" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/335e4912-3f4d-4f0c-a03b-e10d0457af76">
+
 
 
 
