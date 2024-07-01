@@ -22,9 +22,14 @@ Streamlit Deployment Link: https://fluxprediction-6elvtzngufrqfggzt77qst.streaml
 
 <img width="277" alt="CHF1" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/964ec339-c747-4fd0-aaf5-17323747f2ef">
 
+___
+
 **Explainable AI**
 
 <img width="574" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/bd682ab7-3764-4572-a668-7d571d67dc26">
+
+<img width="671" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/48e39107-7854-4c90-b36b-0444d66ce0d1">
+
 
 
 
