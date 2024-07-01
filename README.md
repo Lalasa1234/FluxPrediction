@@ -1,5 +1,5 @@
-## Critical Heat Flux Prediction 🔥🔥💣
-### From inception to Deployment ###
+### Critical Heat Flux Prediction 🔥🔥💣
+#### From inception to Deployment
 ___
 
 **Problem Statement**
