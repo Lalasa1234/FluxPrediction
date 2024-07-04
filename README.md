@@ -32,6 +32,13 @@ ___
 
 <img width="671" alt="image" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/48e39107-7854-4c90-b36b-0444d66ce0d1">
 
+___
+
+**Next Steps 📃☑️✅**
+
+- Log results on MLFlow
+- Showcase the results on DagsHub
+
 
 
 
