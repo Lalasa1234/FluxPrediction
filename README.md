@@ -38,6 +38,7 @@ ___
 
 - Log results on MLFlow
 - Showcase the results on DagsHub
+- Deploy the application on AWS EC2
 
 
 
