@@ -8,7 +8,7 @@ Flux means flow, critical heat flux is that limit beyond which heat can no longe
 
 Hence **predicting this value becomes important for the safety of workers in nuclear plants.**
 
-
+___
 
 **What does the code contain**
 1. Data Preprocessing and EDA
