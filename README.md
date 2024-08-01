@@ -20,6 +20,7 @@ ___
 ### Application UI 👥
 
 Streamlit Deployment Link: https://fluxprediction-6elvtzngufrqfggzt77qst.streamlit.app/
+
 *Note: Values may change by a small limit for same feature values, as the data batches are shuffled each time they are loaded into the model.*
 
 <img width="277" alt="CHF1" src="https://github.com/Lalasa1234/FluxPrediction/assets/166985767/964ec339-c747-4fd0-aaf5-17323747f2ef">
